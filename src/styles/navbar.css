@@ -25,3 +25,30 @@
     justify-content: space-evenly;
     align-items: center;
 }
+
+.userOptions h3{
+    background-color: crimson;
+    color: white; 
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 100%;  
+}
+
+.navLinks{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 150px;
+    margin-right: 20px 10px;
+
+}
+
+.navLinks a{
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: crimson;
+    color: black;
+    padding: 2px 5px;
+    border-radius: 5px;
+    
+}

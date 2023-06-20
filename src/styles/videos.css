@@ -1,0 +1,54 @@
+.videos img {
+    width: 300px;
+    height: 190px;
+    border-radius: 10px;
+}
+
+.videoData {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.video { 
+    width: 25%;
+    margin: 10px 0px;
+}
+
+
+
+.video h3 {
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.video p , video a {
+    cursor: pointer;
+    color: #606060;
+    margin: 0px;
+
+}
+
+
+.shortData img {
+    width: 200px;
+    height: 450px;
+    border-radius: 10px;
+}
+
+.shortData {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.short { 
+    width: 25%;
+    margin: 10px 0px;
+}
+
+.short h3 {
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.short p{
+    margin: 0px;
+
+}
